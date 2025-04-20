@@ -262,7 +262,7 @@ function Products() {
           <button
             onClick={toggleProducts}
             className="text-center mt-10 cursor-pointer bg-primary text-white py-2 px-5 rounded-full">
-            {showAll ? "Show Less" : "View All Books"}
+            {showAll ? "Show Less" : "View All Products"}
           </button>
         </div>
       </div>

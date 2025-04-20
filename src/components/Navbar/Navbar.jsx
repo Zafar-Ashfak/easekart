@@ -50,10 +50,10 @@ function Navbar({ handleOrderPopup }) {
         <div className="container flex justify-between items-center">
           {/* Logo and Links  */}
           <div className="flex items-center">
-            <img src={Logo} alt="Brand Logo" className="w-11 object-contain mr-1" />
+            <img src={Logo} alt="Brand Logo" className="w-9 sm:w-11 object-contain mr-2" />
             <a
               href="#"
-              className="text-primary text-2xl uppercase font-semibold tracking-widest sm:text-3xl mr-12">
+              className="text-primary text-2xl uppercase font-semibold tracking-widest sm:text-3xl mr-14">
               Easekart
             </a>
 
