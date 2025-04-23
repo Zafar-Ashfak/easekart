@@ -165,7 +165,7 @@ const productsData = [
   {
     id: 19,
     img: Image19,
-    title: "AaboRing Smart Ring",
+    title: "Aabo AI Smart Ring",
     price: "145",
     aosDelay: "400",
   },
